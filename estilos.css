@@ -1,0 +1,62 @@
+#lista1 {
+height: 52px;
+width: 968px;
+color: bisque;
+font-size: 20px;
+margin-top: 12px;
+text-align: center;
+background-color: #FF5733;
+font-weight: bold;
+border: 2px;
+border-radius: 50px 50px;
+}
+ 
+#lista2 {
+height: 52px;
+width: 968px;
+color: bisque;
+font-size: 20px;
+margin-top: 12px;
+text-align: center;
+background-color: #FF9633;
+font-weight: bold;
+border: 2px;
+border-radius: 50px 50px;
+}
+
+#lista3 {
+height: 52px;
+width: 968px;
+color: bisque;
+font-size: 20px;
+margin-top: 12px;
+text-align: center;
+background-color: #3361FF;
+font-weight: bold;
+border: 2px;
+border-radius: 50px 50px;
+}
+ 
+#table {
+margin:  0 auto;
+margin-left: 500px;
+border-collapse: collapse;
+}
+
+#table2 {
+margin:  0 auto;
+margin-left: 290px;
+border-collapse: collapse;
+}
+
+#table3 {
+margin:  0 auto;
+margin-left: 340px;
+border-collapse: collapse;
+}
+
+#table_e {
+margin-top:-245px;
+margin-left: 220px;
+border-collapse: collapse;
+}
